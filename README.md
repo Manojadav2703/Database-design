@@ -1,1 +1,1 @@
-# Database-design sterling homes
+# Database-design sterling home
